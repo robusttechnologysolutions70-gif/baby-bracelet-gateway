@@ -226,6 +226,6 @@ class BraceletGateway(
         private const val BABY_NAME = "BABY-BRACELET"
         private const val MOTHER_NAME = "MOTHER-BRACELET"
         private val CCCD = java.util.UUID.fromString("00002902-0000-1000-8000-00805f9b34fb")
-        private val TEMPERATURE_UUID = java.util.UUID.fromString("a0010000-37c4-19b5-8842-6fe254913a7b")
+        private val TEMPERATURE_UUID = java.util.UUID.fromString("0000a001-37c4-19b5-8842-6fe254913a7b")
     }
 }
